@@ -1,0 +1,1 @@
+This repository contains all exercises from the Udemy Data Science and Machine Learning bootcamp. This README.md file will continue to get updated till I finish the program.
