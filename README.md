@@ -25,7 +25,7 @@
 
 ## **PYTHON FOR DATA VISUALIZATION**
 
-The Python for Data Visualization has four(4) sub-sections within it and different tools/ libraries were used in this four sections
+The Python for Data Visualization has five(5) sub-sections within it and different tools/ libraries were used in this four sections
 
 ### **PYTHON FOR DATA VISUALIZATION - MATPLOTLIB**
 
@@ -41,3 +41,10 @@ The Python for Data Visualization has four(4) sub-sections within it and differe
 
 ### The Pandas built-in data viz tools can be used for quick overview of the data, this has most methods if not all methods of the plot style and calls Matplotlib under the hood to create some of its plot.
 
+### The Pandas built-in data viz exercise was much fun to work on.
+
+### **PYTHON FOR DATA VISUALIZATION - PLOTLY AND CUFFLINKS**
+
+### This course happens to be the first time I will be working with Plotly and Cufflinks and was much fun. The Plotly library introduces interactiveness to the plot. Hovering round the plot shows values for each point of the plot. 
+
+### Lecture on this visualization tool introduced a few plots such as the bar, scatter, line, histogram, surface(3d), bubble and scatter matrix.
