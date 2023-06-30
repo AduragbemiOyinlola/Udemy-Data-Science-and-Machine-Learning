@@ -72,7 +72,7 @@ ___
 
 ### Of all the sections in the Python for Data Visualization, I had the most fun in this section. This section of the program uses some of the knowledge of using Plotly and Cufflinks - these libraries from the ealier section introduces interactiveness to the plot.
 
-### Plots of the US and the word was made in this section.
+### Plots of the US and the world was made in this section.
 
 ## **DATA CAPSTONE PROJECT**
 
